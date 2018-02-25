@@ -1,0 +1,18 @@
+C:\Users\progr\documents\visual studio 2017\Projects\IR Chat Client\IR Chat Client\bin\Debug\IR Chat Client.exe
+C:\Users\progr\documents\visual studio 2017\Projects\IR Chat Client\IR Chat Client\bin\Debug\IR Chat Client.pdb
+C:\Users\progr\documents\visual studio 2017\Projects\IR Chat Client\IR Chat Client\obj\Debug\IR_Chat_Client.Form1.resources
+C:\Users\progr\documents\visual studio 2017\Projects\IR Chat Client\IR Chat Client\obj\Debug\IR_Chat_Client.Properties.Resources.resources
+C:\Users\progr\documents\visual studio 2017\Projects\IR Chat Client\IR Chat Client\obj\Debug\IR Chat Client.csproj.GenerateResource.Cache
+C:\Users\progr\documents\visual studio 2017\Projects\IR Chat Client\IR Chat Client\obj\Debug\IR Chat Client.csproj.CoreCompileInputs.cache
+C:\Users\progr\documents\visual studio 2017\Projects\IR Chat Client\IR Chat Client\obj\Debug\IR Chat Client.exe
+C:\Users\progr\documents\visual studio 2017\Projects\IR Chat Client\IR Chat Client\obj\Debug\IR Chat Client.pdb
+C:\Users\progr\documents\visual studio 2017\Projects\IR Chat Client\IR Chat Client\obj\Debug\IR Chat Client.csprojResolveAssemblyReference.cache
+C:\Users\kitae\Desktop\HackAthon Temp Folder\IR Chat Client\IR Chat Client\bin\Debug\IR Chat Client.exe
+C:\Users\kitae\Desktop\HackAthon Temp Folder\IR Chat Client\IR Chat Client\bin\Debug\IR Chat Client.pdb
+C:\Users\kitae\Desktop\HackAthon Temp Folder\IR Chat Client\IR Chat Client\obj\Debug\IR Chat Client.csprojResolveAssemblyReference.cache
+C:\Users\kitae\Desktop\HackAthon Temp Folder\IR Chat Client\IR Chat Client\obj\Debug\IR_Chat_Client.Form1.resources
+C:\Users\kitae\Desktop\HackAthon Temp Folder\IR Chat Client\IR Chat Client\obj\Debug\IR_Chat_Client.Properties.Resources.resources
+C:\Users\kitae\Desktop\HackAthon Temp Folder\IR Chat Client\IR Chat Client\obj\Debug\IR Chat Client.csproj.GenerateResource.Cache
+C:\Users\kitae\Desktop\HackAthon Temp Folder\IR Chat Client\IR Chat Client\obj\Debug\IR Chat Client.csproj.CoreCompileInputs.cache
+C:\Users\kitae\Desktop\HackAthon Temp Folder\IR Chat Client\IR Chat Client\obj\Debug\IR Chat Client.exe
+C:\Users\kitae\Desktop\HackAthon Temp Folder\IR Chat Client\IR Chat Client\obj\Debug\IR Chat Client.pdb
